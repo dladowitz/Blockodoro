@@ -1,6 +1,6 @@
 # Blockodoro
 ### Pomodoro, but using the Bitcoin Blockchain
-
+Written as a simple Ruby script.
 Currently only tested in an OSX Terminal
 
 1. Open the Terminal app. 

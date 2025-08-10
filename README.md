@@ -10,16 +10,11 @@ Ensure you have ruby on your computer
 ruby 3.3.0
 ```
 
-2. Download the `block_monitor.rb` file 
+2. Download the [block_monitor.rb](https://github.com/dladowitz/Blockodoro/blob/main/block_monitor.rb) file 
 3. In the Terminal navigate to where ever you have the file saved. 
-4. Set permissions on the script so it can be run by the Terminal
+4. Run the block monitor using Ruby
 ```
-> chmod +x block_monitor.rb
-```
-
-5. Then run the block monitor
-```
-> ./block_monitor.rb
+>  ruby block_monitor.rb
 
 🔍 Monitoring Bitcoin blockchain for new blocks...
 Press Ctrl+C to stop

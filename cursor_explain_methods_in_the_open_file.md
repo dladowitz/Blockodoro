@@ -103,7 +103,7 @@ I've created a new script that:
 
 To run the script:
 ```
-chmod +x block_monitor.rb
+ruby block_monitor.rb
 ```
 
 ---

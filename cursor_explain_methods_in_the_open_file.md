@@ -102,6 +102,9 @@ I've created a new script that:
    - Mining pool name (if available)
 
 To run the script:
+```
+chmod +x block_monitor.rb
+```
 
 ---
 

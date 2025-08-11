@@ -37,3 +37,9 @@ Time: 2025-08-10 16:19:03
 Size: 2206462 bytes
 Transaction count: 2363
 ```
+
+
+
+### Error
+The script finds the first new block properly. Then when new blocks are found instead of alerting properly, this error message shows up:
+"Error fetching block info: bad URI (is not URI?): "https://blockstream.info/api/block/Block not found". 
